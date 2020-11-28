@@ -1,6 +1,6 @@
-name: Code Climate Test Reporter
-description: Send test coverage results to code climate
-author: aktions
+name: "TEST FOR PULL-REQUEST Code Climate Test Reporter"
+description: "TEST FOR PULL-REQUEST Send test coverage results to code climate"
+author: nishidayuya (original author is aktions)
 branding:
   icon: code
   color: green
